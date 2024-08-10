@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1
+    },
+    {
+      "title": "bruno-test",
+      "id": 2
+    }
+  ],
+  "user": {
+    "age": 27,
+    "gender": "M",
+    "name": "riyan"
+  }
+}
